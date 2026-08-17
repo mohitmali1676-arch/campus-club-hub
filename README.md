@@ -17,6 +17,17 @@ Extracurricular activities and technical clubs are vital to campus life, but coo
 * **Transparent Financial Ledger:** Digital tracking of club fund allocations, sponsorship entries, and expense receipt uploads.
 
 ---
+---
+
+### 💳 Faculty Role in Payment & Financial Management
+
+The platform gives faculty coordinators, heads of department (HODs), and campus treasurers complete supervisory control over all club transactions, fund approvals, and budget disbursements:
+
+* **Budget Request Approval Workflow:** Club leaders submit line-item funding requests for fests and workshops. Faculty review, request revisions, or approve budget allocations directly through their dashboard.
+* **Invoice & Reimbursement Verification:** Club organizers upload digital copies of vendor bills and purchase receipts. Faculty verify authenticity before approving reimbursements.
+* **Live Sponsorship & Registration Audit:** Faculty can monitor real-time income generated from external sponsorships and paid workshop/fest ticketing.
+* **Campus Financial Audit Logs:** Automated generation of downloadable financial reports (CSV/PDF) showing total club expenditures, approved budgets, and remaining balances for annual college audits.
+* **Multi-Level Sanction Thresholds:** Set role-based approval limits (e.g., faculty advisor can approve amounts up to ₹10,000; requests above this threshold automatically route to the Dean/Principal).
 
 ---
 
