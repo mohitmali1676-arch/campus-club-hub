@@ -18,21 +18,6 @@ Extracurricular activities and technical clubs are vital to campus life, but coo
 
 ---
 
-### 🛠️ Technical Architecture
-* **Frontend:** React.js / Next.js, Tailwind CSS
-* **Backend:** Node.js, Express.js (REST APIs)
-* **Database:** PostgreSQL / MongoDB
-* **Security:** JWT Authentication, Role-Based Access Control (RBAC), bcrypt
-* **Ticketing:** Dynamic TOTP/Cryptographic QR verification
-
----
-
-### 💻 Quickstart & Setup
-1. **Clone Repo:** `git clone https://github.com/YOUR_USERNAME/campus-club-hub.git`
-2. **Install Dependencies:** `npm install`
-3. **Configure Environment:** Create a `.env` file with `PORT=5000`, `DATABASE_URL=...`, `JWT_SECRET=...`
-4. **Launch Application:** `npm run dev`
-
 ---
 
 ### 🔮 Future Roadmap
