@@ -1,4 +1,4 @@
-# 🏛️ Campus Club Hub
+# 🏛️ Campus Club Management
 
 > An all-in-one digital operations platform connecting college administrations, student club committees, and campus attendees into a single, automated ecosystem.
 
